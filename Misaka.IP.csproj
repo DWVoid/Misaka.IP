@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Version>0.0.1.0</Version>
+        <PackageId>Gravitas.Misaka.IP</PackageId>
+        <Title>Gravitas.Misaka.IP</Title>
+        <Authors>DWVoid</Authors>
+        <Description>IP Utility for Gravitas.Misaka Networking Project</Description>
+        <PackageProjectUrl>https://github.com/DWVoid/Misaka.Tun</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/DWVoid/Misaka.Tun</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+    </PropertyGroup>
+
+</Project>
